@@ -9,7 +9,7 @@ describe("Day 1", function() {
    	expect(solution.getFuel(100756)).toBe(33583);
   });
 
-  it("getFuel function", function() {
+  it("getAdditionalFuel function", function() {
    	expect(solution.getAdditionalFuel(12)).toBe(2);
    	expect(solution.getAdditionalFuel(1969)).toBe(966);
    	expect(solution.getAdditionalFuel(100756)).toBe(50346);
