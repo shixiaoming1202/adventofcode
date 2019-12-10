@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "Advent of Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shixiaoming1202/adventofcode.git"
+  },
+  "author": "Alex Shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shixiaoming1202/adventofcode/issues"
+  },
+  "homepage": "https://github.com/shixiaoming1202/adventofcode#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
